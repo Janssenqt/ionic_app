@@ -1,1 +1,3 @@
+Janssen Gutierrez
+John Edrian Singcaban
 This file contains only the "songs" component. Create a new ionic project and add a new component called "songs" and replace it with this component. Add some song images and audio tracks to the 'assets' folder.
